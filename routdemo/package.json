@@ -1,0 +1,14 @@
+{
+  "name": "douban",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "http-proxy": "^1.16.2",
+    "request": "^2.75.0"
+  }
+}
